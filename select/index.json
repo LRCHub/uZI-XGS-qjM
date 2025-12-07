@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "Miyao",
+  "base_artist": "ATARASHII GAKKO!",
+  "createdAt": "2025-12-07T09:43:09.743167Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "MIYAO",
+      "artist": "MIYA",
+      "has_synced": true,
+      "path": "select/01_MIYAO_MIYA.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Miyao",
+      "artist": "新しい学校のリーダーズ",
+      "has_synced": false,
+      "path": "select/pl_01_Miyao_新しい学校のリーダーズ.txt"
+    }
+  ]
+}
